@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Hey, you should probably be using pacman, you dunce!"
